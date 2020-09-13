@@ -1,0 +1,6 @@
+usr/local/bin/beerchain-qt usr/bin
+share/pixmaps/beerchain32.xpm usr/share/pixmaps
+share/pixmaps/beerchain16.xpm usr/share/pixmaps
+share/pixmaps/beerchain128.png usr/share/pixmaps
+debian/beerchain-qt.desktop usr/share/applications
+debian/beerchain-qt.protocol usr/share/kde4/services/
